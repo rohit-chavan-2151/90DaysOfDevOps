@@ -20,4 +20,4 @@ Script for problem statement
 + Give permission to the file to make it executable.
 + Command - *chmod 700 createDirectories.sh*
 + Execute it with *./createDirectories.sh*
-> NOTE - Make sure to give proper arguments to it 8-)
+> NOTE - Make sure to give proper arguments to it 8-) 
